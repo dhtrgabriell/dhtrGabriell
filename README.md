@@ -61,6 +61,9 @@ Me chamo Gabriel Lucas, tenho 23 anos de idade e sou natural de Salvador-BA. Atu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
+<br>
+<br>
+
 ### 📊 Estatísticas
 
 <p>
