@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Lucca Dev
-**'Desenvolvedor FullStack'**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Lucas, tenho 23 anos de idade e sou natural de Salvador-BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina, campos Tubarão. Possuo uma forte atração por tecnologia e música.
 
