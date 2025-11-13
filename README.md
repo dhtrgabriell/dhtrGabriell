@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Lucca Dev
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
-Me chamo Gabriel Lucas, tenho 23 anos de idade e sou natural de Salvador-BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina, campos Tubarão. Possuo uma forte atração por tecnologia e música.
+Me chamo Gabriel Lucas, tenho 24 anos de idade e sou natural de Salvador-BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Santa Catarina, campos Tubarão. Possuo uma forte atração por tecnologia e música.
 
 ---
 
@@ -14,6 +14,15 @@ Me chamo Gabriel Lucas, tenho 23 anos de idade e sou natural de Salvador-BA. Atu
     width="30px"
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img 
@@ -41,15 +50,6 @@ Me chamo Gabriel Lucas, tenho 23 anos de idade e sou natural de Salvador-BA. Atu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img
